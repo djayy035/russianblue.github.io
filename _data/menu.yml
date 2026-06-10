@@ -2,12 +2,17 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Russianblue
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Contact
+      - title: X
+        url: https://x.com/russi_nblue
+      - title: Instagram
+        url: https://www.instagram.com/daphnis_15
+      - title: YT
+        url: https://www.youtube.com/@dj0356
+      - title: CHUNILIB
+        url: https://chunilib.tsaibee.org/user/russianblue
 
   - title: all posts
     post_list:
@@ -18,7 +23,7 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example2
+      category: general
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
